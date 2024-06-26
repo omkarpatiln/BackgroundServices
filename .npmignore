@@ -1,5 +1,7 @@
 # Ignore dependencies
 node_modules/
+App.tsx/
+index.js/
 
 # Ignore build output
 lib/
