@@ -1,0 +1,37 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore build output
+lib/
+dist/
+
+# Ignore test files
+__tests__/
+*.spec.js
+*.test.js
+
+# Ignore documentation and examples
+docs/
+example/
+
+# Ignore logs
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore configuration files
+*.swp
+*.idea/
+*.vscode/
+
+# Ignore Android specific files
+android/
+android/build/
+android/gradle/
+android/local.properties
+android/settings.gradle
+
+# Ignore iOS specific files (assuming it's not for iOS)
+ios/
